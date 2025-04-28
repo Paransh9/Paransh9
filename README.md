@@ -1,4 +1,4 @@
-## Hi there 👋  My name is Vansh Srivastava and I'm a Student, from UPES 🎓
+## Hi there 👋  My name is Paransh Marwari and I'm a Student, from UPES 🎓
 
 And i am passionate about cloud computing and always eager to learn new things 🧑‍💻
 
