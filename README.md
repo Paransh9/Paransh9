@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋  My name is Vansh Srivastava and I'm a Student, from UPES 🎓
+
+And i am passionate about cloud computing and always eager to learn new things 🧑‍💻
 
 <!--
 **Paransh9/Paransh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
